@@ -10,7 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://ediselimi.com)
 [![GitHub Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/Edi10-developer)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=0D76A8)](https://ediselimi.com)
 
-```<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="edi-selimi-856671173"><a class="LI-simple-link" href='https://es.linkedin.com/in/edi-selimi-856671173/es-es?trk=profile-badge'>Edi Selimi</a></div>```
+<pre><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="edi-selimi-856671173"><a class="LI-simple-link" href='https://es.linkedin.com/in/edi-selimi-856671173/es-es?trk=profile-badge'>Edi Selimi</a></div></pre>
 
 ![Image](https://github.com/Edi10-developer/Portfolio-Bootstrap/blob/master/img/1.png?raw=true)
 

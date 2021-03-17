@@ -53,6 +53,8 @@ Want to know more about me? [Check out my portfolio.](https://ediselimi.com)
 
 [![](https://img.shields.io/badge/Bootcamp-Scrimba-%23383516)](https://scrimba.com/dashboard)
 
+[![](https://img.shields.io/badge/Courses-SoloLearn-%231ABC9C)](https://www.sololearn.com/)
+
 [![](https://img.shields.io/badge/Courses-GoogleActivate-6795f7)](https://learndigital.withgoogle.com/activate/courses)
 
 [![](https://img.shields.io/badge/Tutorials-YouTube-%23F50000)](https://www.youtube.com/)
